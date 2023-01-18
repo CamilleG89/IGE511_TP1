@@ -5,12 +5,12 @@ import Counter from "~/components/Counter/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Hello World</Title>
+      <Title>Wiki hwygowerhsdf</Title>
       <h1>Wiki hwygowerhsdf</h1>
-      <p> Camille Gauthier</p>
-      <p>gauc3305</p>
       <footer>
-       <Changelog />
+      <p>Camille Gauthier</p>
+      <p>gauc3305</p>
+      <Changelog />
       </footer>
     </main>
   );
