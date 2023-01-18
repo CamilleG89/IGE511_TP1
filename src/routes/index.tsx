@@ -9,13 +9,6 @@ export default function Home() {
       <h1>Wiki hwygowerhsdf</h1>
       <p> Camille Gauthier</p>
       <p>gauc3305</p>
-      <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
-        </a>{" "}
-        to learn how to build SolidStart apps.
-      </p>
       <footer>
        <Changelog />
       </footer>

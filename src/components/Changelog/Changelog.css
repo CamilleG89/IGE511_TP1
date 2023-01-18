@@ -1,4 +1,4 @@
-table.GeneratedTable {
+table.ChangelogTable {
   width: 100%;
   background-color: #ffffff;
   border-collapse: collapse;
@@ -8,13 +8,13 @@ table.GeneratedTable {
   color: #000000;
 }
 
-table.GeneratedTable td, table.GeneratedTable th {
+table.ChangelogTable td, table.ChangelogTable th {
   border-width: 2px;
   border-color: #4f7a28;
   border-style: solid;
   padding: 3px;
 }
 
-table.GeneratedTable thead {
+table.ChangelogTable thead {
   background-color: #77bb41;
 }

@@ -16,8 +16,8 @@ export default function Changelog() {
           <td>Implémentation initiale</td>
         </tr>
         <tr>
-          <td>Cell</td>
-          <td>Cell</td>
+          <td>À venir</td>
+          <td>Des changements incroyables!</td>
         </tr>
       </tbody>
     </table>
