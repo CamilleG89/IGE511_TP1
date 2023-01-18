@@ -5,7 +5,6 @@ export default function Home() {
   return (
     <main>
       <Title>Hello World</Title>
-      <meta name="google-site-verification" content="55c7DPLmzBSxW2MjmabWAM5mTuLXiJ0hfkjE_PgPbbU" />
       <h1>allo world!</h1>
       <Counter />
       <p>
