@@ -16,6 +16,10 @@ export default function Changelog() {
           <td>Implémentation initiale</td>
         </tr>
         <tr>
+          <td>3 mars 2023</td>
+          <td>Ajout de la page À propos</td>
+        </tr>
+        <tr>
           <td>À venir</td>
           <td>Des changements incroyables!</td>
         </tr>
