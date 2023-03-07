@@ -3,7 +3,7 @@ import "./Recipe.css";
 
 export default function Recipe() {
   return (
-    <div class="Recipe">
+    <div class="recipe">
       <h1>La meilleure recette de Hwygowerhsdf!</h1>
       <p>Bienvenue sur Hwygowerhsdf, notre blog de cuisine! Aujourd'hui, nous allons vous présenter une recette de gâteau incroyablement délicieuse appelée hwygowerhsdf. Ce nom peut sembler étrange, mais une fois que vous aurez goûté ce gâteau, vous comprendrez pourquoi il est devenu notre préféré. Cette recette est inspirée du blog Rainbow Plant Life et est végétalienne, sans gluten et sans sucre raffiné.</p>
       <div itemscope itemtype="https://schema.org/Recipe">
@@ -12,8 +12,8 @@ export default function Recipe() {
       <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
         <img src="https://www.justonecookbook.com/wp-content/uploads/2021/07/Matcha-Gateau-au-Chocolat-9832-II.jpg" alt="hwygowerhsdf" />
         <meta itemprop="url" content="https://www.justonecookbook.com/wp-content/uploads/2021/07/Matcha-Gateau-au-Chocolat-9832-II.jpg" />
-        <meta itemprop="width" content="500" />
-        <meta itemprop="height" content="500" />
+        <meta itemprop="width" content="250" />
+        <meta itemprop="height" content="250" />
       </div>
       
       <h3>Ingrédients</h3>
@@ -69,8 +69,6 @@ export default function Recipe() {
     </div>
   
   </div>
-
-
   </div>
   );
 }

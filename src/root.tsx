@@ -18,7 +18,7 @@ export default function Root() {
   return (
     <Html lang="en">
       <Head>
-        <Title>SolidStart - Bare</Title>
+        <Title>Hwygowerhsdf</Title>
         <Meta name="google-site-verification" content="55c7DPLmzBSxW2MjmabWAM5mTuLXiJ0hfkjE_PgPbbU" />
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -26,8 +26,10 @@ export default function Root() {
       <Body>
         <Suspense>
           <ErrorBoundary>
-            <A href="/">Index</A>
-            <A href="/about">À propos</A>
+            <div class="navmenu">
+              <A href="/">Index</A>
+              <A href="/about">À propos</A>
+            </div>
             <Routes>
               <FileRoutes />
             </Routes>

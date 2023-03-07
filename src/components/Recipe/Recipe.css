@@ -1,4 +1,11 @@
-.Recipe {
+.recipe {
   justify-content: left;
   text-align: left;
+  max-width: 50rem;
+  padding-bottom: 20px;
+}
+
+.recipe img {
+  max-height: 500px;
+  max-width: 500px;
 }

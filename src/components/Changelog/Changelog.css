@@ -1,5 +1,18 @@
+footer {
+  border-top-style: solid;
+  border-top-color: #000000;
+  margin-top: 20px;
+}
+
+footer p {
+  line-height: 1;
+  margin-bottom: 2px;
+  text-align: left;
+}
+
 table.ChangelogTable {
   width: 100%;
+  margin-top: 20px;
   background-color: #ffffff;
   border-collapse: collapse;
   border-width: 2px;

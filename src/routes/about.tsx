@@ -21,8 +21,6 @@ export default function About() {
         est appelée à jouer un rôle de plus en plus important dans notre monde numérique en constante 
         évolution.</p>
       <footer>
-      <p>Camille Gauthier</p>
-      <p>gauc3305</p>
       <Changelog />
       </footer>
     </main>

@@ -9,8 +9,6 @@ export default function Home() {
       <Title>Hwygowerhsdf</Title>
       <Recipe />
       <footer>
-      <p>Camille Gauthier</p>
-      <p>gauc3305</p>
       <Changelog />
       </footer>
     </main>
