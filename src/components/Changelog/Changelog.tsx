@@ -24,6 +24,10 @@ export default function Changelog() {
           <td>Changement du nom du site de "Wiki hwygowerhsdf" à uniquement hwygowerhsdf</td>
         </tr>
         <tr>
+          <td>7 mars 2023</td>
+          <td>Ajout d'une recette dans la page d'accueil</td>
+        </tr>
+        <tr>
           <td>À venir</td>
           <td>Des changements incroyables!</td>
         </tr>
