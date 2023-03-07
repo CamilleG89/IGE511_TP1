@@ -34,6 +34,10 @@ export default function Changelog() {
             <td>Ajustement barre de navigation, bas de page et des espaces sur le site</td>
           </tr>
           <tr>
+            <td>7 mars 2023</td>
+            <td>Fixation de la position de la barre de navigation</td>
+          </tr>
+          <tr>
             <td>À venir</td>
             <td>Des changements incroyables!</td>
           </tr>

@@ -1,8 +1,10 @@
 .navmenu {
   background-color:darkgray;
   height: 2rem;
+  width: 100%;
   padding: 1rem;
   text-align: center;
+  position: fixed;
 }
 
 body {
