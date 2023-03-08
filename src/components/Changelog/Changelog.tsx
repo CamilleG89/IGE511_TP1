@@ -38,6 +38,10 @@ export default function Changelog() {
             <td>Fixation de la position de la barre de navigation</td>
           </tr>
           <tr>
+            <td>7 mars 2023</td>
+            <td>Ajustement de la taille du titre de la page Index</td>
+          </tr>
+          <tr>
             <td>À venir</td>
             <td>Des changements incroyables!</td>
           </tr>
