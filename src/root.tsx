@@ -29,6 +29,7 @@ export default function Root() {
             <div class="navmenu">
               <A href="/">Index</A>
               <A href="/about">À propos</A>
+              <A href="/bestPage">La meilleure page</A>
             </div>
             <Routes>
               <FileRoutes />

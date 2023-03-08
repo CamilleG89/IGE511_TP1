@@ -42,6 +42,10 @@ export default function Changelog() {
             <td>Ajustement de la taille du titre de la page Index</td>
           </tr>
           <tr>
+            <td>7 mars 2023</td>
+            <td>Ajout de la meilleure page</td>
+          </tr>
+          <tr>
             <td>À venir</td>
             <td>Des changements incroyables!</td>
           </tr>

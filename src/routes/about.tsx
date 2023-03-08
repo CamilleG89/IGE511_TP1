@@ -1,6 +1,5 @@
 import { Title } from "solid-start";
 import Changelog from "~/components/Changelog/Changelog";
-import Counter from "~/components/Counter/Counter";
 
 export default function About() {
   return (
